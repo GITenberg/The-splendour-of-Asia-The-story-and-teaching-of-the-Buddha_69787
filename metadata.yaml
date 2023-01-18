@@ -1,0 +1,31 @@
+_repo: The-splendour-of-Asia-The-story-and-teaching-of-the-Buddha_69787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beck, L. Adams (Lily Adams)
+    aliases:
+    - Beck, Lily Moresby Adams
+    - Barrington, E.
+    - Beck, Eliza Louisa Moresby
+    deathdate: 1931
+    gutenberg_agent_id: '726'
+    url: http://www.gutenberg.org/2009/agents/726
+    wikipedia: https://en.wikipedia.org/wiki/L._Adams_Beck
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69787'
+language: en
+pgterms:marc905: 20230111203650beck
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at http://www.pgdpcanada.net
+publication_note: 'United States: Dodd, Mead and Company,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The splendour of Asia: The story and teaching of the Buddha'
+url: http://www.gutenberg.org/ebooks/69787
