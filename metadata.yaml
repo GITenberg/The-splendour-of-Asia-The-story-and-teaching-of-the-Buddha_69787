@@ -1,5 +1,8 @@
 _repo: The-splendour-of-Asia-The-story-and-teaching-of-the-Buddha_69787
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69787-h/images/cover.jpg
 creator:
   author:
     agent_name: Beck, L. Adams (Lily Adams)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/726
     wikipedia: https://en.wikipedia.org/wiki/L._Adams_Beck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69787#The-splendour-of-Asia-The-story-and-teaching-of-the-Buddha
 gutenberg_issued: '2023-01-14'
 identifiers:
   gutenberg: '69787'
